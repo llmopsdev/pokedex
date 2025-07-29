@@ -1,0 +1,1 @@
+{"root":["./src/command.ts","./src/command_exit.ts","./src/command_help.ts","./src/main.ts","./src/pokeapi.ts","./src/pokecache.ts","./src/repl.test.ts","./src/repl.ts","./src/state.ts"],"version":"5.8.3"}
